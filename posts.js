@@ -39,5 +39,34 @@ window.BLOG_POSTS = [
   cover: "assets/caricature-user-forest-walk-1600x900.png",
   summary: "A doctor’s advice to walk in a quiet woodland (Colomos) became my weekly ritual for clarity, connection, and better ideas—with family and friends.",
   content: "<h1>Quiet Forest Walks: How I Find Clarity and Ideas</h1><p>A doctor I’m seeing suggested something surprisingly simple: walk daily—or as often as possible—in a park with woods, away from traffic, construction and constant noise. The goal wasn’t fitness. It was to reconnect with myself and with nature.</p><h2>What changed for me</h2><p>I’ve come to appreciate this practice more than I expected. I often invite family members or friends to join. During these calm walks, ideas show up—lots of them. In the back-and-forth of conversation, things click and projects take shape. Sometimes the ideas have been floating around since sleep or dreams; the quiet helps them resurface with clarity.</p><h2>My place: Colomos</h2><p>I’m fortunate to have a forest inside my city: <em>Colomos</em>. You’ll see joggers and runners, people reading or sketching on benches. The air feels different. Being there is like a small daily reset for body and mind. Once you’re under the trees, the external world fades and you’re wrapped in stillness.</p><h2>A routine that stuck</h2><p>I used to struggle to wake up early. Now, with a light commitment to my father, siblings, or friends, I’m out there at least four mornings a week. Fresh air, quiet paths, and simple presence—it’s become a reliable way to start the day clear and focused.</p><h2>How to try it</h2><ul><li><strong>Pick a quiet path:</strong> find trees, birds, and as little mechanical noise as possible.</li><li><strong>Go light:</strong> no podcasts, no calls—just a notebook or voice memos if you must capture ideas.</li><li><strong>Invite someone:</strong> one person is enough; conversation sparks creation.</li><li><strong>Keep it short:</strong> 20–40 minutes is plenty; consistency beats intensity.</li><li><strong>Close with capture:</strong> jot three takeaways or next actions before you leave.</li></ul><h2>Open question</h2><p>I’d love to learn from you: what other ways help you develop new or existing ideas?</p>"
+},
+  {
+  id: "p-vs-e-tension-throughput",
+  title: "P vs E: Turning Tension into Throughput",
+  date: "2025-10-13",
+  tags: ["Leadership", "PAEI", "Adizes", "Execution", "Innovation"],
+  cover: "assets/paei-p-vs-e-card.png", // optional image path if you upload one
+  summary: "Producers deliver today; Entrepreneurs create tomorrow. Use clear lanes and a simple cadence to turn tension into throughput.",
+  content: `<h1>P vs E: Turning Tension into Throughput</h1>
+<p><strong>TL;DR:</strong> Producers (P) prioritize certainty and deadlines; Entrepreneurs (E) prioritize options and upside. Treat them as complementary roles with clear lanes, not opposing personas.</p>
+<h2>Why P and E collide</h2>
+<ul><li><strong>Different clocks:</strong> P = near-term delivery; E = future bets.</li>
+<li><strong>Different risk posture:</strong> P cuts variance; E explores variance.</li>
+<li><strong>Different proof:</strong> P wants measurable progress; E wants validated learning.</li></ul>
+<h2>3 operating rules</h2>
+<ol><li><strong>Dual horizon board:</strong> Maintain separate swimlanes: <em>Now (P)</em> vs <em>Next (E)</em>. Review weekly; never merge cards.</li>
+<li><strong>Option → Decision → Delivery:</strong> E proposes 2–3 options with costs/benefits; P selects given constraints; both commit to a single plan and acceptance criteria.</li>
+<li><strong>Time-boxed exploration:</strong> Allocate fixed innovation windows (e.g., 4h/week). Outside that window, P’s plan is protected from scope creep.</li></ol>
+<h2>Anti-patterns to avoid</h2>
+<ul><li><strong>Endless pilots:</strong> E keeps adding options; no decision gate.</li>
+<li><strong>Execution-only treadmill:</strong> P ships, but strategy starves.</li>
+<li><strong>Blended boards:</strong> Mixing Now/Next turns priorities into noise.</li></ul>
+<h2>Simple weekly cadence</h2>
+<ul><li><strong>Mon:</strong> P sync on delivery; risks/blocks; acceptance criteria.</li>
+<li><strong>Wed AM:</strong> E sandbox (experiments, customer tests, prototypes).</li>
+<li><strong>Fri:</strong> Joint review: demo (P), learning report (E), decide 1–2 moves for next week.</li></ul>
+<h2>Call to action</h2>
+<p>Pick one rule this week—dual horizon board, the Option→Decision→Delivery flow, or a time-boxed sandbox—and run it for two cycles. Then measure: lead time, rework, and % of roadmap informed by experiments.</p>`
 }
+
 ];
